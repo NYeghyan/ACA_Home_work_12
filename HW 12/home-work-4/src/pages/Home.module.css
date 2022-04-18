@@ -1,0 +1,30 @@
+.list {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  gap: 25px;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-shrink: 1;
+  padding: 0;
+  justify-content: center;
+
+}
+
+
+.list button {
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(109 186 251 / 41%);
+  font-family: sans-serif;
+  transition: 1s;
+}
+
+
+
+
+.list button:hover {
+    background-color: rgb(242 235 249);
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}

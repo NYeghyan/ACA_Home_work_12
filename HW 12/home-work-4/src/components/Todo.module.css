@@ -1,0 +1,12 @@
+.btn {
+    margin-top: 10p;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.p10 {
+    padding: 10px;
+}
